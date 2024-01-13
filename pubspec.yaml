@@ -38,7 +38,6 @@ dependencies:
 
   http: ^1.1.0
 
-  fluttertoast: any
 
 dev_dependencies:
   flutter_test:
